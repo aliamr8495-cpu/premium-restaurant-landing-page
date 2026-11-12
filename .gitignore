@@ -1,0 +1,14 @@
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local tools, temporary output and private configuration
+node_modules/
+.env
+.env.*
+*.log
+.openai/
+.sites-*
